@@ -1,0 +1,7 @@
+C:\1.CodingStudy\CS_Algorithm\CS_Algorithm\CS_Algorithm\obj\Debug\CS_Algorithm.csproj.AssemblyReference.cache
+C:\1.CodingStudy\CS_Algorithm\CS_Algorithm\CS_Algorithm\obj\Debug\CS_Algorithm.csproj.CoreCompileInputs.cache
+C:\1.CodingStudy\CS_Algorithm\CS_Algorithm\CS_Algorithm\bin\Debug\CS_Algorithm.exe.config
+C:\1.CodingStudy\CS_Algorithm\CS_Algorithm\CS_Algorithm\bin\Debug\CS_Algorithm.exe
+C:\1.CodingStudy\CS_Algorithm\CS_Algorithm\CS_Algorithm\bin\Debug\CS_Algorithm.pdb
+C:\1.CodingStudy\CS_Algorithm\CS_Algorithm\CS_Algorithm\obj\Debug\CS_Algorithm.exe
+C:\1.CodingStudy\CS_Algorithm\CS_Algorithm\CS_Algorithm\obj\Debug\CS_Algorithm.pdb
